@@ -12,6 +12,6 @@
   "annal:software_version": "0.1.29",
   "annal:type": "annal:Collection",
   "annal:type_id": "_coll",
-  "rdfs:comment": " Definitions for defining RDF schema for vocabularies ",
-  "rdfs:label": "RDF schema terms for defining vocabularies "
+  "rdfs:comment": "Definitions for defining RDF schema for vocabularies",
+  "rdfs:label": "RDF schema terms for defining vocabularies"
 }
