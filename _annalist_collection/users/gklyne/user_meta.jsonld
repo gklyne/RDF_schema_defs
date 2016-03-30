@@ -1,0 +1,23 @@
+{
+  "@context": [
+    "../../coll_context.jsonld"
+  ],
+  "@id": "./",
+  "@type": [
+    "annal:User"
+  ],
+  "annal:id": "gklyne",
+  "annal:type": "annal:User",
+  "annal:type_id": "_user",
+  "annal:user_permission": [
+    "VIEW",
+    "CREATE",
+    "UPDATE",
+    "DELETE",
+    "CONFIG",
+    "ADMIN"
+  ],
+  "annal:user_uri": "mailto:graham.klyne@oerc.ox.ac.uk",
+  "rdfs:comment": "User gklyne: permissions for Graham Klyne in collection Schema_defs",
+  "rdfs:label": "Graham Klyne"
+}

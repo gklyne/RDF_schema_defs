@@ -1,0 +1,17 @@
+{
+  "@context": [
+    "coll_context.jsonld"
+  ],
+  "@id": "../",
+  "@type": [
+    "annal:Collection"
+  ],
+  "annal:id": "RDF_schema_defs",
+  "annal:inherit_from": "",
+  "annal:meta_comment": "",
+  "annal:software_version": "0.1.29",
+  "annal:type": "annal:Collection",
+  "annal:type_id": "_coll",
+  "rdfs:comment": " Definitions for defining RDF schema for vocabularies ",
+  "rdfs:label": "RDF schema terms for defining vocabularies "
+}
